@@ -5,7 +5,7 @@
 
 Este es el [link](https://dsaw-2025-ii.github.io/my-cv-part-b-vargasesc17/) para ver desplegada mi CV.
 
-## Juego de Fluke completo
+## Juego de Flukeout completo
 ![imagen-fluke-completo](ss-css-exercises.png)
 
 # Bienvenidos a la Tarea de HTML y CSS
